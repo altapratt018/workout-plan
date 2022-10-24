@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://altapratt018.github.io/workout-plan/sitemapx.xml
